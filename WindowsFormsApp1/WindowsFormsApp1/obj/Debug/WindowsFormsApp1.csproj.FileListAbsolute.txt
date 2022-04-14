@@ -1,0 +1,21 @@
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\main\RDP\31П\КазанскийДА\Desktop\МДК 01.02\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
