@@ -82,7 +82,7 @@ namespace WindowsFormsApp1
                     label3.Text = "Равнобедренный";
                     label3.ForeColor = Color.Blue;
                 }
-                else
+                else if ((a != b) && (b != c) && (a != c))
                 {
                     label3.Text = "Разносторонний";
                     label3.ForeColor = Color.Blue;
