@@ -11,7 +11,7 @@ namespace UnitTest
         public void Ravnst_3_3_3()
         {
             int a = 3;
-            int b = 3;
+            int b = 3; 
             int c = 3;
             int Rvnst = 1;
 

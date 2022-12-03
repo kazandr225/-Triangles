@@ -18,3 +18,23 @@ C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа
 C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
 C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\UnitTest\obj\Debug\UnitTest.dll
 C:\Users\Даниил\Desktop\МДК 01.02\Практическая работа №6\Практическая работа №6\WindowsFormsApp1\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\WindowsFormsApp1.exe
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\КазанскийДА\Source\Repos\-Triangles\WindowsFormsApp1\UnitTest\obj\Debug\UnitTest.pdb

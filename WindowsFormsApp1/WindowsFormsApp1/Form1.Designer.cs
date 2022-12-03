@@ -58,6 +58,7 @@ namespace WindowsFormsApp1
             this.label1.Size = new System.Drawing.Size(294, 16);
             this.label1.TabIndex = 2;
             this.label1.Text = "Введите три стороны вашего треугольника:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -67,6 +68,7 @@ namespace WindowsFormsApp1
             this.label2.Size = new System.Drawing.Size(40, 13);
             this.label2.TabIndex = 3;
             this.label2.Text = "Ответ:";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // StrTxb2
             // 
@@ -76,6 +78,7 @@ namespace WindowsFormsApp1
             this.StrTxb2.TabIndex = 4;
             this.StrTxb2.Text = "Сюда вторую сторону";
             this.StrTxb2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.StrTxb2.TextChanged += new System.EventHandler(this.StrTxb2_TextChanged);
             this.StrTxb2.Enter += new System.EventHandler(this.StrTxb2_Enter_1);
             this.StrTxb2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.StrTxb2_KeyPress);
             // 
@@ -87,6 +90,7 @@ namespace WindowsFormsApp1
             this.StrTxb3.TabIndex = 5;
             this.StrTxb3.Text = "Ну и как без третьей";
             this.StrTxb3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.StrTxb3.TextChanged += new System.EventHandler(this.StrTxb3_TextChanged);
             this.StrTxb3.Enter += new System.EventHandler(this.StrTxb3_Enter_1);
             this.StrTxb3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.StrTxb3_KeyPress);
             // 
@@ -98,6 +102,7 @@ namespace WindowsFormsApp1
             this.label3.Size = new System.Drawing.Size(127, 13);
             this.label3.TabIndex = 6;
             this.label3.Text = "Ваш ответ появится тут";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // StrTxb1
             // 
@@ -107,6 +112,7 @@ namespace WindowsFormsApp1
             this.StrTxb1.TabIndex = 7;
             this.StrTxb1.Text = "Сюда первую сторону";
             this.StrTxb1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.StrTxb1.TextChanged += new System.EventHandler(this.StrTxb1_TextChanged);
             this.StrTxb1.Enter += new System.EventHandler(this.StrTxb1_Enter_1);
             this.StrTxb1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.StrTxb1_KeyPress_1);
             // 
